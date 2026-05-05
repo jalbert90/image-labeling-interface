@@ -9,7 +9,7 @@ A visual and intuitive, browser-based labeling interface that eliminates the nee
 # Target Users
 
 1. **Primary:** Anyone who needs to label OCR data for LayoutLM training.
-2. **Secondary:** Anyone who needs to review/edit image annotations.
+2. **Secondary:** Anyone who needs to review/edit image annotations in general.
 
 # Key Features (tentative)
 
